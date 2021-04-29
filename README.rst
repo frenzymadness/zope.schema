@@ -1,5 +1,5 @@
 =============
- zope.schema
+ zope.schema test
 =============
 
 .. image:: https://img.shields.io/pypi/v/zope.schema.svg
